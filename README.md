@@ -1,15 +1,11 @@
-# galaxy_planets
+# Galaxy Planets
 
-A new Flutter project.
+## Screenshot
 
-## Getting Started
+This project is a galaxy planet for a Flutter application.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src = "https://user-images.githubusercontent.com/121785230/221416223-28ccc758-b049-43ea-8b9d-4322626318a4.png" height = "500px"/> |
+<img src = "https://user-images.githubusercontent.com/121785230/221416230-51275eff-e234-4874-821d-28111ba15139.png" height = "500px"/>
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
